@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;1,100;1,200&family=Quicksand:wght@300;400;500&display=swap");
+
+.container {
+  width: 800px;
+  margin: auto;
+  font-family: poppins;
+  /* border: 1px solid black; */
+  /* text-align: center; */
+  font-size: 16px;
+}
+p {
+  font-weight: 500;
+}
+
+.judul {
+  text-align: center;
+}
+
+.rekomendasi {
+  width: 300px;
+}
+
+.rekomendasi ol li {
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+.rekomendasi li a {
+  text-decoration: none;
+}
+
+.isi {
+  margin-top: 50px;
+}
+
+.isi b {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.isi p {
+  line-height: 1.5;
+}
