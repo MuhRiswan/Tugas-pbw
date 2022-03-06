@@ -1,0 +1,21 @@
+.navbar .nav-item {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.navbar .nav-item .active {
+  font-weight: 800;
+  color: #1a9a55 !important;
+}
+
+.card_wrapper {
+  margin: 80px 0;
+}
+
+.card_wrapper .card {
+  margin-bottom: 20px;
+}
+
+.form_wrapper .form-group {
+  margin-bottom: 20px;
+}
