@@ -1,0 +1,34 @@
+[
+    {
+        "maskapai": "Garuda Indonesia",
+        "asal_penerbangan": "Juanda",
+        "tujuan_penerbangan": "Hasanuddin",
+        "harga_tiket": "500000",
+        "pajak": 110000,
+        "total_harga": 610000
+    },
+    {
+        "maskapai": "Pelita Air",
+        "asal_penerbangan": "Soekarno Hatta",
+        "tujuan_penerbangan": "Inanwatan",
+        "harga_tiket": "450000",
+        "pajak": 140000,
+        "total_harga": 590000
+    },
+    {
+        "maskapai": "Lion Air",
+        "asal_penerbangan": "Husein Sastranegara",
+        "tujuan_penerbangan": "Ngurai Rai",
+        "harga_tiket": "570000",
+        "pajak": 110000,
+        "total_harga": 680000
+    },
+    {
+        "maskapai": "AirAsia",
+        "asal_penerbangan": "Abdul Rahman Saleh",
+        "tujuan_penerbangan": "Sultan Iskandar Muda",
+        "harga_tiket": "380000",
+        "pajak": 110000,
+        "total_harga": 490000
+    }
+]
