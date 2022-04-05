@@ -56,7 +56,7 @@
                   >
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="mahasiswa.php">Mahasiswa</a>
+                  <a class="nav-link" href="../mahasiswa/mahasiswa.php">Mahasiswa</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link active" href="../matakuliah/matakuliah.php">Mata Kuliah</a>
@@ -72,7 +72,7 @@
         <section class="content">
           <div class="container">
             <div class="text-center">
-              <h2>Tambah Mahasiswa</h2>
+              <h2>Tambah Mata Kuliah</h2>
             </div>
             <div class="data">
               <div class="row justify-content-center">
